@@ -11,15 +11,16 @@ public class DatosHojaVida {
     private String ciudad = "Popayan, Colombia";
     private String telefono = "+57 3226077388";
     private String email = "druiz@unimayor.edu.co";
-    private String github = "github.com/tu-usuario";
+    private String github = "github.com/druiz-hash";
     //=============
     private String[] habilidadesTecnicas = {"Java", "Git y GitHub", "Programación", "Estructura de Datos"};
     private String[] habilidadesBlandas = {"Trabajo en equipo", "Comunicación", "Resolución de problemas"};
     private String idiomas = "Español - Nativo\nEnglish - Básico (B2)";
     private String perfil = "estudiante de desarrollo de software,";
-    private String experiencia = "2024-2025\nestudiante - [Empresa]\nPopayan";
-    private String educacion = "2020-2025\ndesarrollo de software - Unimayor\nPopayan";
-    private String[] areasInteres = {"Estructura de Datos", "Algoritmos", "Ingeniería de Software"};
+    private String experiencia = "2024-2026\nestudiante - unimayor\nPopayan";
+    private String educacion = "2024-2026\ndesarrollo de software - Unimayor\nPopayan";
+    //=============
+    private String[] areasInteres = {"Videojuegos", "backen", "programacion"};
     private String proyectos = "• [Nombre del proyecto] - [Breve descripción]";
     // =================================================
 
